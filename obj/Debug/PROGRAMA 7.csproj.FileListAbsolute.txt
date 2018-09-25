@@ -1,0 +1,6 @@
+C:\Users\Abraham\Desktop\PROGRAMA 7\bin\Debug\PROGRAMA 7.exe.config
+C:\Users\Abraham\Desktop\PROGRAMA 7\bin\Debug\PROGRAMA 7.exe
+C:\Users\Abraham\Desktop\PROGRAMA 7\bin\Debug\PROGRAMA 7.pdb
+C:\Users\Abraham\Desktop\PROGRAMA 7\obj\Debug\PROGRAMA 7.csprojResolveAssemblyReference.cache
+C:\Users\Abraham\Desktop\PROGRAMA 7\obj\Debug\PROGRAMA 7.exe
+C:\Users\Abraham\Desktop\PROGRAMA 7\obj\Debug\PROGRAMA 7.pdb
